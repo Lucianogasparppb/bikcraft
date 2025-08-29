@@ -20,7 +20,6 @@
   padding-bottom: 200px;
 }
 
-
 .introducao img {
   height: 100%;
   object-fit: cover;
@@ -33,15 +32,6 @@
 
 .introducao p {
   margin-bottom: 20px;
-}
-
-@media (max-width: 1200px) {
-  .introducao h1 {
-    font-size: 48px;
-  }
-  .introducao p {
-    font-size: 18px;
-  }
 }
 
 @media (max-width: 800px) {
@@ -58,7 +48,6 @@
     padding-bottom: 0px;
   }
   .introducao h1 {
-    font-size: 32px;
     margin-bottom: 16px;
   }
   .introducao img {
